@@ -50,4 +50,4 @@ Customize the paramters in the script to test the desired model and quantization
 
 # Pretrained models
 Pretrained networks are provided for the both the _ccsds_ and _prequantization_ algorithms for the folowing quantization step size: 3,7,11,15,21,31,41,61,101. They can be found in the _Results_ directories.
-Two decompressed test images are available under directories _Data/prequantization/test/Q61/_ and _Data/ccsds/test/Q61/_.
+A decompressed test image is available under directory _Data/prequantization/test/Q61/_.
